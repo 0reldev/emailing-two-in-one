@@ -1,7 +1,7 @@
 # Emailing: advertisement newsletter
 
 ## Responsive template example
-Responsive template for adverstising newsletters with a three-column block. 
+Responsive template for adverstising newsletters with different sections from one to four columns. 
 
 The challenge is to design a newsletter which can be displayed for every mail client and on every supports. 
 
